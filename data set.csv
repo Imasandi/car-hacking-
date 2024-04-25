@@ -1,0 +1,6 @@
+DATA,Attack Type,CAN Message ,Attack Image 
+Training Set,Normal Data,"1,171,637.00 ",N/A
+Test Set,DOS Attack data,"3,665,771.00 ","17,128.00 "
+Test Set,FUZZY Attack data,"3,838,860.00 ","20,317.00 "
+Test Set,RPM Attack data,"4,621,702.00 ","32,501.00 "
+Test Set,GEAR Attack data,"4,443,142.00 ","29,751.00 "
